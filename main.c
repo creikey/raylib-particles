@@ -50,8 +50,8 @@ int main(void)
         .friction = 0.05,
         // .friction = 0.08,
 
-        // .seed = (unsigned int)time(NULL),
-        .seed = 1607658350,
+        .seed = (unsigned int)time(NULL),
+        // .seed = 1607658350,
         .num_particles = 1000,
         // .num_particle_types = 16,
         .num_particle_types = 16,
