@@ -1,3 +1,11 @@
+# Raylib library folders I think are too big to be checked into git
+raylib-3.0.0/examples
+raylib-3.0.0/games
+raylib-3.0.0/projects
+raylib-3.0.0/templates
+# Build directory
+build/
+
 # Prerequisites
 *.d
 

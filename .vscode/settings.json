@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "ctime": "c",
+        "*.tcc": "c",
+        "chrono": "c",
+        "iomanip": "c",
+        "limits": "c",
+        "numeric": "c",
+        "ratio": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "condition_variable": "c",
+        "algorithm": "c"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.configureOnOpen": true
+}
