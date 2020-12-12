@@ -72,7 +72,7 @@ void iterateWorld(World *world)
 {
     for (int i_me = 0; i_me < world->num_particles; i_me++)
     {
-        Vector2 final_accel = {};
+        Vector2 final_accel = {0};
         for (int i_them = 0; i_them < world->num_particles; i_them++)
         {
             if (i_them == i_me)
